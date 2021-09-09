@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science student from India</h3>
 
 
-<p><img align="center" src="https://institute.careerguide.com/wp-content/uploads/2020/10/Cloud_computing_trends1554725958824.gif" alt="siddharthashandilya" /> </p>
+<p><img align="center" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="siddharthashandilya" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthashandilya&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthashandilya" /> </p>
 
