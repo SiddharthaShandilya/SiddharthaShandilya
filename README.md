@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Siddhartha Shandilya</h1>
-<h3 align="center">A passionate Computer Science from India</h3>
+<h3 align="center">A passionate Computer Science student from India</h3>
 
 
 <p><img align="center" src="https://institute.careerguide.com/wp-content/uploads/2020/10/Cloud_computing_trends1554725958824.gif" alt="siddharthashandilya" /> </p>
